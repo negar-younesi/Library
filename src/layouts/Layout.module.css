@@ -1,0 +1,31 @@
+.container{
+    width: 70%;
+    margin: auto;
+    padding: 0 20px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #303030;
+  padding: 10px 20px;
+    color: #fff;
+    border-radius: 10px;
+    margin-bottom: 80px;
+  
+}
+p{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.text{
+    color: blue;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    margin-top: 80px;
+    background-color: #303030;
+    border-radius: 10px;
+}
