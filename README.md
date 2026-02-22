@@ -31,8 +31,8 @@ A modern, responsive book library application built with React and Vite. Browse,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/negar-younesi/book-library.git
-cd book-library
+git clone https://github.com/negar-younesi/Library.git
+cd Library
 ```
 
 2. Install dependencies:
